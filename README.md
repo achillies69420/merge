@@ -1,11 +1,31 @@
-<div align="center">
+# Architectural Studio & 3D Terrain Analysis Tool
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A web-based architectural studio workspace featuring bubble diagramming, functional adjacency matrices, wind-rose microclimate analysis, 3D volumetric massing, and real-time site topography slope / earthwork cut-and-fill analysis.
 
-  <h1>Built with AI Studio</h2>
+---
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 One-Click Launch (No Terminal Commands Required)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+After unzipping or exporting this project to your PC:
 
-</div>
+### **Windows:**
+Double-click **`launch.bat`**
+- It will automatically install packages (on first run), start the local server, and open `http://localhost:3000` directly in your default browser.
+
+### **Mac / Linux:**
+Double-click **`launch.sh`** (or run `./launch.sh` in terminal).
+
+---
+
+## 🛠️ Manual Launch (Alternative)
+If you prefer using your terminal or VS Code:
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the application:
+   ```bash
+   npm run dev
+   ```
+3. Open `http://localhost:3000` in your web browser.

@@ -1,0 +1,6 @@
+{
+  "name": "ArchiCanvas",
+  "description": "Offline-first architectural spatial studio and Milanote-style canvas with metric scaling, program validation, solar bioclimatic math, digital trace drafting, and optional AI layout critique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
